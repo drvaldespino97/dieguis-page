@@ -292,7 +292,7 @@ img{
 }
 
 body{
-    background-image: url('img/background.jpg');
+    background-image: url('img/background.jpg') !important;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
