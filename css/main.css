@@ -291,7 +291,7 @@ img{
     max-width: 100%;
 }
 
-body{
+.container-fluid{
     background-image: url('img/background.jpg') !important;
     background-size: cover;
     background-position: center;
