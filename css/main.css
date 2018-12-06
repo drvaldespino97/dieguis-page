@@ -292,8 +292,6 @@ img{
 }
 
 .container-fluid{
-    background-image: url('img/background.jpg') !important;
+    background: url('../img/background.jpg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
